@@ -1,0 +1,13 @@
+.ap-wp-plugin-editor-field{
+    display:none;
+}
+.ap-wp-plugin-editor-field-button{
+    vertical-align: baseline;
+}
+
+.datepicker{
+    display:inline-block;
+}
+.text-label{
+    color: #444;
+}
